@@ -1,0 +1,1 @@
+Simple script that takes an input text file and calculates its Huffman encoded length.
